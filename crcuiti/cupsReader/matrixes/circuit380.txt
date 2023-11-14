@@ -1,0 +1,1 @@
+https://www.geeksforgeeks.org/python-program-right-rotate-list-n/

@@ -1,0 +1,1 @@
+Function should return None if the angle is larger than 360 degrees.

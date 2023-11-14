@@ -1,0 +1,1 @@
+Average is computed as total cost divided by the number of cells visited in the path.

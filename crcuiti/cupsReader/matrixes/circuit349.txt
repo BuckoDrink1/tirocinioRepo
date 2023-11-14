@@ -1,0 +1,1 @@
+A path is defined as a specific sequence of cells that starts from the top-left cell move only right or down and ends on bottom right cell.

@@ -1,0 +1,1 @@
+We want to find a path with the maximum average over all existing paths.

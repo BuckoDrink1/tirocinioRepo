@@ -1,0 +1,1 @@
+Write a function to filter students that have height and weight above the minimum.
